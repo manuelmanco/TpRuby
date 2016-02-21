@@ -1,28 +1,21 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+J'ai suivi un tutoriel pas à pas sur https://www.railstutorial.org/book/frontmatter
 
-Things you may want to cover:
+Ce tutoriel est composé de 12 chapitres donc 10 développés dans ce dépôt.
 
-* Ruby version
+Grâce à ce tuto j'ai pu : 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Apprendre à déployer une applicaton Rails
+- Générer des pages statiques
+- Comprendre l'architecture REST 
+- Apprendre le langage Ruby à travers Rails On Rails ( la syntaxe diffère surtout de celle de PHP )
+- Modéliser des données (users )
+- Créer un CRUD user ainsi qu'un système de login/signup/logout
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+En arrivant sur l'application vous pourrez :   
+
+- Vous inscrire , modifier vos informations 
+- En tant qu'admin , supprimer des users.
+
